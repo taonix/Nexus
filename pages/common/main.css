@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Satoshi;
+    src: url("../font/Satoshi-Variable.ttf");
+}
+
+:root {
+    --main: #31E87A;
+
+    --bg: #171C1A;
+    --bg-2: #323433;
+
+    --secondary: #ABBAB1;
+    --fore: #E3E8E5;
+
+    --frame-bg : #020904;
+    --transparent: #E9EDEA;
+}
+
+body {
+    background: var(--frame-bg);
+}

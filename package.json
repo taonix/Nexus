@@ -1,0 +1,18 @@
+{
+  "name": "nexus",
+  "version": "1.0.0",
+  "description": "yeelight led panel",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taonix, Zephyr",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^30.0.8"
+  },
+  "dependencies": {
+    "socket.io": "^4.7.5"
+  }
+}

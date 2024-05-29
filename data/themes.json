@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Le super preset",
+    "id": 0,
+    "groups": 0,
+    "lights": [
+      {
+        "id": [0],
+        "mode": "color",
+        "value": [0, 255, 0],
+        "brightness": 100
+      },
+      {
+        "id": [1],
+        "mode": "ct",
+        "value": 3000,
+        "brightness": 100
+      }
+    ]
+  }
+]
